@@ -9,7 +9,7 @@ package examen_edd;
  *
  * @author Raul
  */
-public class Examen_EDD {
+public class Ejercicio1 {
 
     /**
      * @param args the command line arguments
